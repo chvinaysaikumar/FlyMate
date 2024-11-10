@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="webapp" name="Web App Maven : org.airlineReservationSystem:AirlineReservationSystem:1.0-SNAPSHOT">
+      <configuration>
+        <descriptors>
+          <web-app-descriptor path="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" type="WEB_XML" />
+          <web-app-descriptor path="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" type="WEB_XML" />
+          <web-app-descriptor path="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" type="WEB_XML" />
+          <web-app-descriptor path="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" type="WEB_XML" />
+          <web-app-descriptor path="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" type="WEB_XML" />
+          <web-app-descriptor path="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" type="WEB_XML" />
+        </descriptors>
+        <source-roots>
+          <source-root path="file://$MODULE_DIR$/src/main/java" />
+          <source-root path="file://$MODULE_DIR$/src/main/resources" />
+          <source-root path="file://$MODULE_DIR$/src/main/java" />
+          <source-root path="file://$MODULE_DIR$/src/main/resources" />
+          <source-root path="file://$MODULE_DIR$/src/main/java" />
+          <source-root path="file://$MODULE_DIR$/src/main/resources" />
+          <source-root path="file://$MODULE_DIR$/src/main/java" />
+          <source-root path="file://$MODULE_DIR$/src/main/resources" />
+          <source-root path="file://$MODULE_DIR$/src/main/java" />
+          <source-root path="file://$MODULE_DIR$/src/main/resources" />
+          <source-root path="file://$MODULE_DIR$/src/main/java" />
+          <source-root path="file://$MODULE_DIR$/src/main/resources" />
+          <source-root path="file://$MODULE_DIR$/src/main/java" />
+          <source-root path="file://$MODULE_DIR$/src/main/resources" />
+        </source-roots>
+        <web-resources>
+          <web-app-resource path="file://$MODULE_DIR$/src/main/webapp" relative-path="/" />
+          <web-app-resource path="file://$MODULE_DIR$/src/main/webapp" relative-path="/" />
+          <web-app-resource path="file://$MODULE_DIR$/src/main/webapp" relative-path="/" />
+          <web-app-resource path="file://$MODULE_DIR$/src/main/webapp" relative-path="/" />
+          <web-app-resource path="file://$MODULE_DIR$/src/main/webapp" relative-path="/" />
+          <web-app-resource path="file://$MODULE_DIR$/src/main/webapp" relative-path="/" />
+        </web-resources>
+      </configuration>
+    </facet>
+  </component>
+</module>
